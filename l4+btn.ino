@@ -32,5 +32,6 @@ void loop()
             digitalWrite(redLed, LOW);
         }
         delay(100)
+        // :(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(::(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(:(
         doooooo not ruun bc the setup is s***
 }
